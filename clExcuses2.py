@@ -14,6 +14,3 @@ randExcuse = randint(0, len(verb) - 1)
 
 #Print random excuse
 print subject[randSubject] + " "  + verb[randExcuse]
-
-#todo:
-#figure out why it's printing a blank subject
