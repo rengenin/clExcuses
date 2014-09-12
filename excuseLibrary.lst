@@ -4,3 +4,29 @@ I can't ssh to prod
 My Socks proxy is broken
 I'm running out of disk space
 My laptop was stolen in Mexico
+The customer blocked port 22 on their servers
+The Tomcat user was running as the wrong UID
+Tomcat couldn't read the .war file
+The permissions on the war were wrong
+Tomcat couldn't read the ingest files
+Sysops was drunk when they deployed the code
+The RAID level was set wrong
+We weren't monitoring LSI RAID cards
+The cledge user was wrong
+The encrypted drive was not mounted
+NTP was out of sync
+The destination wasn't in the PCT
+The customer didn't pay their bills
+The kegs were empty
+We moved but they didn't have desks for us
+The archive directory was deleted
+We were running the wrong version of code
+The database was slow
+There was a long-running query
+I didn't have credentials on the system
+My password was wrong
+I fail2ban'd myself
+Puppet overwrote my configs
+The puppet manifest was jacked
+Ansible had the line commented out
+The super password changed and we didn't tell anyone
