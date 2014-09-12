@@ -9,14 +9,11 @@ verb = [line.strip() for line in open('excuses.lst')]
 randSubject = randint(0, len(subject) - 1)
 randExcuse = randint(0, len(verb) - 1) 
 
-#Draw a random excuse
-randomExcuse = subject[randSubject] + " "  + verb[randExcuse]
-
 #Debugging Outputs
 #print "Subject #: " + str(randSubject) +"; Excuse #: " + str(randExcuse) + "\n"
 
 #Print random excuse
-print randomExcuse
+print subject[randSubject] + " "  + verb[randExcuse]
 
 #todo:
 #figure out why it's printing a blank subject
